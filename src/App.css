@@ -1,0 +1,14 @@
+.mapDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+.esri-ui{
+overflow: visible; /*To show suggested location even if map has a width/heigh of 0% */
+}
+.esri-component {
+  width: 900px; 
+}
+
+
